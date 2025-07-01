@@ -1,14 +1,14 @@
 # 💡 Учебные и тестовые проекты по Data Science
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-used-informational?logo=pandas)
+![Python](https://img.shields.io/badge/Python-2e2e2e?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikit-learn)
-![CatBoost](https://img.shields.io/badge/CatBoost-gradient--boosting-yellow?logo=catboost)
-![Time Series](https://img.shields.io/badge/Time_Series-forecasting-blueviolet)
-![SQL](https://img.shields.io/badge/SQL-data--querying-lightgrey?logo=postgresql)
-![PyTorch](https://img.shields.io/badge/PyTorch-deep_learning-EE4C2C?logo=pytorch)
-![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-ffcc00?logo=huggingface)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+![Time Series](https://img.shields.io/badge/Time%20Series-6A5ACD?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-505050?style=for-the-badge&logo=huggingface)
 
 Этот репозиторий включает проекты, выполненные в рамках курса **«Специалист по Data Science»** от [Яндекс Практикума](https://practicum.yandex.ru/data-scientist/) в 2023 году и несколько проектов, выполненных в рамках тестовых заданий и самостоятельной практики. <br>
 Проекты охватывают различные решения прикладных бизнес-задач — от исследования и визуализации данных до построения и оценки ML-моделей.
