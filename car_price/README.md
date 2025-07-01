@@ -13,8 +13,8 @@
 
 ## Используемые технологии и библиотеки
 
-- `Pandas`, `NumPy`, `Matplotlib` — анализ и обработка данных
-- `Scikit-learn`, `CatBoost`, `LightGBM` — предобработка данных, модели и метрики
+- **Pandas, NumPy, Matplotlib** — анализ и обработка данных
+- **Scikit-learn, CatBoost, LightGBM** — предобработка данных, модели и метрики
 
 ## Ключевые этапы
 

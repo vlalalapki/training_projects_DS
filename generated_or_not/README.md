@@ -13,10 +13,10 @@
 
 ## Используемые технологии и библиотеки
 
-- NumPy, Pandas, scikit-image — обработка данных
-- Matplotlib, Seaborn — визуализация
-- scikit-learn — разбиение данных
-- PyTorch, Torchvision — аугментации, разработка и обучение моделей
+- **NumPy, Pandas, scikit-image** — обработка данных
+- **Matplotlib, Seaborn** — визуализация
+- **scikit-learn** — разбиение данных
+- **PyTorch, Torchvision** — аугментации, разработка и обучение моделей
 
 ## Ключевые этапы
 
