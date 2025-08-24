@@ -1,4 +1,4 @@
-# 💡 Учебные и тестовые проекты по Data Science
+# Учебные и самостоятельные проекты по Data Science
 
 ![Python](https://img.shields.io/badge/Python-2e2e2e?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
